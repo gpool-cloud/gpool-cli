@@ -2,7 +2,9 @@
 Mining client for GPOOL 
 
 Read the documentation: https://docs.gpool.cloud/
+
 Check the dashboard: https://dashboard.gpool.cloud/
+
 Join Telegram channel for all updates and help: https://t.me/gpoolcloud
 
 ## Requerements
