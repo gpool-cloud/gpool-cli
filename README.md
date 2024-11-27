@@ -1,5 +1,5 @@
 # gpool-cli
-Mining client for GPOOL 
+Mining client for GPOOL. **Check RELEASES for fresh miner versions**
 
 Read the documentation: https://docs.gpool.cloud/
 
